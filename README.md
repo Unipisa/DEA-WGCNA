@@ -11,13 +11,15 @@ Code for paper
 
 ### Abstract
 
-Analysis of gene expression data is a crucial Bioinformatics tool for Transcriptomics investigations. Among the proposed approaches, methods for assessing differential gene expression and for characterizing the corresponding co-expression network provide alternative views of the information present in a gene expression dataset.
+Analysis of gene expression data is a crucial Bioinformatics tool for Transcriptomics investigations. 
+Among the proposed approaches, methods for assessing differential gene expression and for characterizing the corresponding co-expression network provide alternative views of the information present in a gene expression dataset.
 Such approaches can be used either separately or jointly.
 Their performance, however, depends on the choice of parameter values, which may significantly affect the outcomes.
-Thus, having a clear view of the possible influences of parameter values on the analysis results is particularly important and practically challenging.
+Thus, having a clear view of the possible influence of parameter values on the analysis results is particularly important and practically challenging.
 This work introduces an empirical framework to investigate the impact of parameter settings on the analysis results, providing insights into the advantages and limitations of using the two approaches.
 After identifying the main factors that affect the robustness of the investigated methods, systematic computational experiments have been carried out over publicly available datasets. 
-The results help better understand the behavior of the methods under varying operating conditions, offering practical methodological guidance for an effective application and for assessing the reliability of the outcomes.
+The results help better understand the behavior of the methods across varying operating conditions, offering practical methodological guidance for their effective application and for assessing the reliability of the outcomes.
+
 
 
 ### Graphical abstract
