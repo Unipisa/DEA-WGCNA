@@ -49,7 +49,7 @@ BiocManager::install("impute")
 The analysis was carried out using Python and anaconda package and environment manager. Please ensure that the required packages are installed before running the pipeline.
 
 ```
-conda create -n PEERJ -c conda-forge \
+conda create -n DEAWGCNA -c conda-forge \
   python=3.10 \
   numpy pandas scipy scikit-learn statsmodels \
   matplotlib seaborn \
